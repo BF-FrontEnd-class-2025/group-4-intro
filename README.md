@@ -2,9 +2,13 @@
 
 ## Team members
 
-| **[Artur](/members/artur-info.md)** | **[Manloi](/members/manloi-info.md)** |
-| ----------------------------------- | ------------------------------------- |
-| ![Artur](members/img/Artur-img.jpg) | ![Manloi](members/img/manloi.jpg)     |
+| **[Artur](/members/artur-info.md)** |
+| ----------------------------------- |
+| ![Artur](members/img/Artur-img.jpg) |
+
+| **[Manloi](/members/manloi-info.md)** |
+| ------------------------------------- |
+| ![Manloi](members/img/manloi.jpg)     |
 
 | **[Alamgir](/members/alamgir-info.md)** |
 | --------------------------------------- |
