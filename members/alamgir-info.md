@@ -1,6 +1,6 @@
 # Mohammed Alamgir Bio
 
-![My Photo](./members/alamgir02.jpg)
+![My Photo](./img/alamgir02.jpg)
 
 ## About Me
 
