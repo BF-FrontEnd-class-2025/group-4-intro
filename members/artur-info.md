@@ -1,6 +1,6 @@
 # 👋 Hello I am Artur
 
-![Hrytchyn Artur](./img/Artur-img.png)
+![Hrytchyn Artur](./img/Artur-img.jpg)
 
 ## About Me 🌐
 
