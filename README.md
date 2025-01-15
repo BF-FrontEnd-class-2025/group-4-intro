@@ -2,10 +2,14 @@
 
 ## Team members
 
-| **[Artur](/members/artur-info.md)**     | **[Manloi](/members/manloi-info.md)** |
-| ------------------------------------    | ------------------------------------- |
-| ![Artur](./img/Artur-img.jpg)           | ![Manloi](./img/manloi.jpg)           |
+| **[Artur](/members/artur-info.md)** |
+| ----------------------------------- |
+| ![Artur](members/img/Artur-img.jpg) |
 
-| **[Alamgir](/members/alamgir-info.md)** | **[Neeta]()**                         |
-| --------------------------------------- | ------------------------------------- |
-| ![Alamgir](./img/alamgir02.jpg)         |                                       |
+| **[Manloi](/members/manloi-info.md)** |
+| ------------------------------------- |
+| ![Manloi](members/img/manloi.jpg)     |
+
+| **[Alamgir](/members/alamgir-info.md)** |
+| --------------------------------------- |
+| ![Alamgir](members/img/alamgir02.jpg)   |
