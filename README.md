@@ -4,12 +4,14 @@
 
 | **[Artur](/members/artur-info.md)** |
 | ----------------------------------- |
-| ![Artur](members/img/Artur-img.jpg) |
+| <img src="./members/img/Artur-img.jpg" alt="Artur" width="200px"> |
+<br><br>
 
 | **[Manloi](/members/manloi-info.md)** |
 | ------------------------------------- |
-| ![Manloi](members/img/manloi.jpg)     |
+| <img src="./members/img/manloi.jpg" alt="Manloi" width="200px">     |
+<br><br>
 
 | **[Alamgir](/members/alamgir-info.md)** |
 | --------------------------------------- |
-| ![Alamgir](members/img/alamgir02.jpg)   |
+| <img src="./members/img/alamgir02.jpg" alt="Alamgir" width="200px">   |
