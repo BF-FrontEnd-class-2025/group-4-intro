@@ -6,6 +6,6 @@
 | ----------------------------------- | ------------------------------------- |
 | ![Artur](members/img/Artur-img.jpg) | ![Manloi](members/img/manloi.jpg)     |
 
-| **[Alamgir](/members/alamgir-info.md)** | **[Neeta]()** |
-| --------------------------------------- | ------------- |
-| ![Alamgir](members/img/alamgir02.jpg)   |               |
+| **[Alamgir](/members/alamgir-info.md)** |
+| --------------------------------------- |
+| ![Alamgir](members/img/alamgir02.jpg)   |
